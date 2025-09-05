@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7eeac051-699d-485f-abdd-5152fe13e1a2"
+  <img src="https://github.com/user-attachments/assets/bb989aae-669e-4afc-8fdf-19ae61b28602"
     alt="Hi, I'm Dani 👋 I'm a Robotics Engineer 🤖 I ❤️ Robot Control & AI"
     width="100%"
 </p>
