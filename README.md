@@ -5,14 +5,11 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I'm passionate about robotics, AI, and building intelligent systems that bridge the gap between perception and action.\
 🎓 &nbsp;I hold two MSc in Robotics and Industrial Engineering, and I'm currently working as a Robotics Software Engineer.\
-🌍 &nbsp;My work revolves around robot manipulation, motion planning, and 3D perception using ROS 2, MoveIt, and deep learning.\
-🛠️ &nbsp;I enjoy crafting full-stack robotic solutions—from simulation in Gazebo and MuJoCo to real-world deployment.\
+🤖 &nbsp;I’m especially interested in robot learning and control for manipulation and locomotion.\
 📚 &nbsp;I’m continuously learning about generalization in robotic skills, policy learning, and cutting-edge vision-language models.\
-💬 &nbsp;Let’s connect if you're into robotics, AI research, or have a general interest in these areas.\
-🎨 &nbsp;In my free time, I enjoy hiking, playing table tennis and padel, reading books, and painting.\
+🎨 &nbsp;Outside work, I enjoy hiking, painting, reading, and racket sports.\
 📄 &nbsp;Please have a look at my [CV](https://www.danielsoteloaguirre.com/assets/CV_Daniel_Sotelo_Aguirre.pdf) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
