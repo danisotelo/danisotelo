@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>&nbsp;
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust"/>&nbsp;
   <img src="https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks"/>&nbsp;
   <img src="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex"/>&nbsp;
   <img src="https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros"/>&nbsp;
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim"/>&nbsp;
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
   <img src="https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk"/>&nbsp;
   <img src="https://img.shields.io/badge/-SolidWorks-05122A?style=flat"/>&nbsp;
